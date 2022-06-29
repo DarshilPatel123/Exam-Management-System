@@ -1,0 +1,47 @@
+*{margin:0;padding:0;outline:none}
+body
+{
+  font-family:verdana;
+  width: 100%;
+  
+}
+ .phpcoding
+ {
+   width:100%; 
+   margin: 0 auto;
+   background:#ddd;
+   
+ }
+.headeroption {
+ background-image: url("adminbanner.png");
+ background-size: 100%;
+ border-bottom: 2px solid #444444;
+ height: 150px;
+ align-items: center;
+
+}
+.footeroption{background:#444;color:#fff;text-align:center;padding:20px;margin-top: 140px;}
+.headeroption h2, .footeroption h2{margin:0;font-size:24px;}
+.maincontent {
+ font-size: 18px;
+ min-height: 430px;
+ padding: 20px;
+}
+
+.main {
+ background: #fff none repeat scroll 0 0;
+ border: 1px solid #999;
+ margin-left: 120px;
+ width: 80%;
+ height: 80%;
+ margin-top: 100px;
+}
+
+
+.adminpanel{
+    width: 500px;
+    color: black;
+    margin: 30px auto 0;
+    padding: 50px;
+    border: 1px solid #ddd;
+}
